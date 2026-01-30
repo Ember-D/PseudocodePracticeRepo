@@ -61,10 +61,28 @@ OUTPUT rand
 
 Declare rand Interger
 Declare sum interger
+Declare right interger
+Declare left interger
 
 While sum < or = 10
 
+    Increase sum by 1
+
+    Generated random number = rand
     
+    If rand is even Then 
+        OUTPUT "Right"
+        Increase right by 1
+
+    If rand is odd Then 
+        OUTPUT "Left"
+        Increase left by 1
+
+
+OUTPUT "Right: " right
+OUTPUT "Left: " left
+
+
 
 
 
