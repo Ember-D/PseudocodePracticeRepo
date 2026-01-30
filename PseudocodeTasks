@@ -1,12 +1,8 @@
 --Task #1--
-Declare string variable
-Ask user to input random phrase
 
-
-
-
-
-
+uppercase_string = input_string.to_upper ()
+RETURN uppercase_string
+END FUNCTION
 
 --Task#2--
 FUNCTION AddTwoNumbers:
@@ -31,13 +27,44 @@ END FUNCTION
 
 --Task#3--
 
+Declare status string
+Declare sum interger
+
+While status string does not equal N
+
+    OUTPUT "Next number"
+
+    INPUT new number + sum = sum
+
+    OUTPUT "Do you want to continue (Y/N)?"
+
+    INPUT status string
+
+OUTPUT sum
 
 
+--Task#4--
+
+Declare max Interger
+Declare rand Interger
+
+OUTPUT "Enter max number"
+
+INPUT max
+
+Generate random number >0 and <max as rand
+
+OUTPUT rand
 
 
+--Task#5--
 
+Declare rand Interger
+Declare sum interger
 
+While sum < or = 10
 
+    
 
 
 
