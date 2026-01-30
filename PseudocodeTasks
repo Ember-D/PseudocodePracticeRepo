@@ -1,0 +1,43 @@
+--Task #1--
+Declare string variable
+Ask user to input random phrase
+
+
+
+
+
+
+
+--Task#2--
+FUNCTION AddTwoNumbers:
+    // Declare variables to store the two input numbers and the sum
+    DECLARE number1 as Integer
+    DECLARE number2 as Integer
+    DECLARE sum as Integer
+
+    OUTPUT "Enter the first number: "
+
+    INPUT number1
+
+    OUTPUT "Enter the second number: "
+
+    INPUT number2
+
+    sum = number1 + number2
+
+    OUTPUT "The sum of the two numbers is: ", sum
+END FUNCTION 
+
+
+--Task#3--
+
+
+
+
+
+
+
+
+
+
+
